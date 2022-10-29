@@ -1,7 +1,7 @@
 # Vlib-SysArgParse
 Arguments Parser library for C programs.
 
-Tired to parse each argument by manually ?<br>
+Tired to parse each argument manually ?<br>
 Use the **SysArgParse** library to make your life easier.<br>
 
 Future updates will be added soon.
