@@ -49,6 +49,15 @@ sys_index sys_arg_count(void);
 
 > **sys_index**: **unsigned int**
 
+---
+
 ## Example
 
 ![Animation](https://user-images.githubusercontent.com/66129673/198832264-e1ac074f-d0f3-40de-8be6-d5199c38cc14.gif)
+
+---
+
+**Code Example**
+<p align="center">
+  <img width="70%" src="https://user-images.githubusercontent.com/66129673/198832711-09156f93-2e23-49bb-a2bd-64d559f4b023.png">
+</p>
